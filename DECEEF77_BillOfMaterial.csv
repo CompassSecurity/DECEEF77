@@ -1,0 +1,18 @@
+Designator,digikey,Comment,Description,Footprint,LibRef,Quantity
+
+"C1, C2","1276-1844-1-ND","18p","Capacitor","1206(2)","CAP","2"
+"C3, C4, C5, C8, C9, C12","311-1356-6-ND","1u","Capacitor","1206(2)","CAP","6"
+"C6, C7, C10, C11","1276-1050-1-ND","1n","Capacitor","1206(2)","CAP","4"
+"F1","MF-MSMF050-2CT-ND","MF-MSMF050-2CT-ND","Fuse","Fuse","Fuse 1","1"
+"J1","","ICSP_Connector","","ICSP","ICSP_Connector","1"
+"J2","H11671CT-ND","USBmini","","MiniUSB","USBmini","1"
+"J3","","Antenna","","Antenna","Antenna","1"
+"R1","541-1.0MECT-ND","1M","","1206(2)","RES2","1"
+"R2, R3, R4, R10","311-10KERTR-ND","10k","","1206(2)","RES2","4"
+"R5","311-1.0KERTR-ND","1k","","1206(2)","RES2","1"
+"R6, R7, R8, R9, R11","RMCF1206JT2K00TR-ND","2k","","1206(2)","RES2","5"
+"S1, S2, S3","450-1650-ND","Switch","450-1650-ND","Switch","Switch","3"
+"U1","ATMEGA328P-PU-ND","ATMEGA328P-PU","","","ATMEGA328","1"
+"U2","","LCD ERM802SN-1","","LCD","LCD","1"
+"U3","497-11047-1-ND","L2720W","","SO16W_N","L2720W","1"
+"X1","CTX1085-ND","16MHz","Crystal","ATS16B","CRYSTAL","1"
